@@ -1,0 +1,21 @@
+{
+  "label_names": [
+    "D_1",
+    "D_2",
+    "D_3",
+    "D_4",
+    "D_5",
+    "C_1",
+    "C_2",
+    "C_3",
+    "E_1"
+  ],
+  "n_rows": 22500,
+  "text_column": "text",
+  "fold_column": "fold",
+  "split_column": "split",
+  "arrays": {
+    "text": "text.npy",
+    "labels": "labels.npy"
+  }
+}

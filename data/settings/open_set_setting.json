@@ -1,0 +1,111 @@
+{
+  "description": "Known classes and candidate-unknown classes per fold (dataset1, five-fold class-based split)",
+  "n_classes": 22,
+  "label_order": "corpus/dataset1/meta.json",
+  "folds": {
+    "1": {
+      "known": [
+        "F_8",
+        "F_7",
+        "F_5",
+        "F_6",
+        "F_3",
+        "E_1"
+      ],
+      "unknown_candidates": [
+        "E_3",
+        "E_2",
+        "D_2",
+        "F_1",
+        "D_1",
+        "G_2",
+        "G_3",
+        "G_5"
+      ]
+    },
+    "2": {
+      "known": [
+        "G_3",
+        "F_4",
+        "F_5",
+        "D_4",
+        "F_7",
+        "F_6"
+      ],
+      "unknown_candidates": [
+        "G_5",
+        "E_2",
+        "D_2",
+        "F_1",
+        "D_1",
+        "G_2"
+      ]
+    },
+    "3": {
+      "known": [
+        "E_2",
+        "F_7",
+        "D_4",
+        "F_5",
+        "E_1",
+        "F_6"
+      ],
+      "unknown_candidates": [
+        "G_5",
+        "D_1",
+        "D_2",
+        "F_1",
+        "F_4",
+        "G_2",
+        "G_3"
+      ],
+      "candidate_marked_tilde": [
+        "F_4"
+      ]
+    },
+    "4": {
+      "known": [
+        "D_3",
+        "F_7",
+        "E_3",
+        "F_6",
+        "E_1",
+        "F_3"
+      ],
+      "unknown_candidates": [
+        "G_5",
+        "E_2",
+        "D_2",
+        "F_2",
+        "F_4",
+        "G_2",
+        "G_3",
+        "D_1"
+      ],
+      "candidate_marked_tilde": [
+        "F_4"
+      ]
+    },
+    "5": {
+      "known": [
+        "G_2",
+        "F_7",
+        "D_4",
+        "E_3",
+        "F_6",
+        "F_5"
+      ],
+      "unknown_candidates": [
+        "G_5",
+        "D_1",
+        "D_2",
+        "F_1",
+        "F_4",
+        "G_3"
+      ],
+      "candidate_marked_tilde": [
+        "F_4"
+      ]
+    }
+  }
+}
