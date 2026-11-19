@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+*.log
+
+# The full tensors are deposited on Zenodo (10.5281/zenodo.24201644);
+# only the small demo slices shipped here are under version control.
+data/model/
+*.pt
